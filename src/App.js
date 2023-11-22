@@ -30,13 +30,13 @@ function App() {
 
   return (
     <div
-      className={`flex h-screen flex-col items-center justify-center transition-all ${color}`}
+      className={`flex h-screen flex-col items-center justify-center transition-all md:flex-row ${color}`}
     >
       <div
-        className={`quote-box container mx-auto w-2/5 rounded bg-white p-12 shadow-lg`}
+        className={`quote-box container mx-auto w-4/5 rounded bg-white p-12 shadow-lg md:w-2/5`}
       >
         <p
-          className={`pb-5 text-center text-3xl font-medium ${
+          className={`pb-5 text-center text-2xl font-medium md:text-5xl ${
             quoteAnimation ? "animate-quote" : ""
           }`}
           style={{ fontFamily: "Raleway" }}
@@ -59,7 +59,8 @@ function App() {
         <div id="buttons" className={`flex flex-row justify-between`}>
           <div className="flex flex-row justify-evenly">
             <a
-              className={`mr-3 block rounded p-3 text-white ${color}`}
+              className={`
+              mr-2 block rounded p-2 text-white sm:pt-5 md:mr-3 md:p-3 ${color}`}
               href={`https://wa.me/?text=${quote.quote} - ${quote.author}`}
               id="tweet-quote"
               target="_blank"
@@ -68,7 +69,8 @@ function App() {
               <WhatsAppIcon />
             </a>
             <a
-              className={`mr-3 block rounded p-3 text-white ${color}`}
+              className={`
+              mr-2 block rounded p-2 text-white sm:pt-5 md:mr-3 md:p-3 ${color}`}
               href={`https://www.instagram.com/?text=${quote.quote} - ${quote.author}`}
               id="tweet-quote"
               target="_blank"
@@ -77,7 +79,8 @@ function App() {
               <InstagramIcon />
             </a>
             <a
-              className={`mr-3 block rounded p-3 text-white ${color}`}
+              className={`
+              mr-2 block rounded p-2 text-white sm:pt-5 md:mr-3 md:p-3 ${color}`}
               href={`https://twitter.com/intent/tweet?text=${quote.quote} - ${quote.author}`}
               id="tweet-quote"
               target="_blank"
@@ -86,7 +89,8 @@ function App() {
               <TwitterIcon />
             </a>
             <a
-              className={`mr-3 block rounded p-3 text-white ${color}`}
+              className={`
+              mr-2 block rounded p-2 text-white sm:pt-5 md:mr-3 md:p-3 ${color}`}
               href={`https://www.facebook.com/sharer/sharer.php?u=https://codepen.io/pen/?template=KKzQmyZ`}
               id="tweet-quote"
               target="_blank"
@@ -97,7 +101,7 @@ function App() {
           </div>
           <div>
             <button
-              className={`rounded p-3 text-white ${color}`}
+              className={`rounded p-2 text-white sm:p-1 md:p-3 ${color}`}
               onClick={changeQuote}
               id="new-quote"
             >

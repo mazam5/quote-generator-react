@@ -106,6 +106,449 @@ export const quotes = [
     quote: "He who has a thousand friends has not a friend to spare.",
     author: "Imam Ali",
   },
+  {
+    quote: "He who has a thousand friends has not a friend to spare.",
+    author: "Imam Ali",
+  },
+  {
+    quote:
+      "In the end, we will remember not the words of our enemies, but the silence of our friends.",
+    author: "Martin Luther King Jr.",
+  },
+  {
+    quote: "A true friend is one soul in two bodies.",
+    author: "Aristotle",
+  },
+  {
+    quote:
+      "Friendship is born at that moment when one person says to another, 'What! You too? I thought I was the only one.'",
+    author: "C.S. Lewis",
+  },
+  {
+    quote: "A friend is someone who knows all about you and still loves you.",
+    author: "Elbert Hubbard",
+  },
+  {
+    quote:
+      "Friendship is the only cement that will ever hold the world together.",
+    author: "Woodrow Wilson",
+  },
+  {
+    quote:
+      "A true friend is the greatest of all blessings and that which we take the least care of all to acquire.",
+    author: "Francois de La Rochefoucauld",
+  },
+  {
+    quote:
+      "Friendship is born when one person says to another, 'What! You too? I thought I was the only one.'",
+    author: "C.S. Lewis",
+  },
+  {
+    quote: "Friendship is a love that never dies.",
+    author: "M. K. Soni",
+  },
+  {
+    quote:
+      "A real friend is one who walks in when the rest of the world walks out.",
+    author: "Walter Winchell",
+  },
+  {
+    quote:
+      "A friend is someone who understands your past, believes in your future, and accepts you just the way you are.",
+    author: "Unknown",
+  },
+  {
+    quote: "Friendship is like a rainbow between two hearts.",
+    author: "Unknown",
+  },
+  {
+    quote: "A friend is someone who gives you total freedom to be yourself.",
+    author: "Jim Morrison",
+  },
+  {
+    quote: "A friend is one who knows you and loves you just the same.",
+    author: "Elbert Hubbard",
+  },
+  {
+    quote:
+      "Friendship is the golden thread that ties the heart of all the world.",
+    author: "John Evelyn",
+  },
+  {
+    quote: "A friend is what the heart needs all the time.",
+    author: "Henry Van Dyke",
+  },
+  {
+    quote: "Friendship is a sheltering tree.",
+    author: "Samuel Taylor Coleridge",
+  },
+  {
+    quote: "A friend is a second self.",
+    author: "Aristotle",
+  },
+  {
+    quote:
+      "Friendship is the only cement that will ever hold the world together.",
+    author: "Woodrow Wilson",
+  },
+  {
+    quote:
+      "A true friend is somebody who can make you smile even when you're not in the mood.",
+    author: "Gina Barreca",
+  },
+  {
+    quote: "Friendship is the only flower that blooms in all seasons.",
+    author: "Unknown",
+  },
+  {
+    quote: "A true friend is one of the most precious assets in life.",
+    author: "Pooja Bhatt",
+  },
+  {
+    quote: "Friendship is the key to everything.",
+    author: "Aristotle",
+  },
+  {
+    quote:
+      "A true friend is the greatest of all blessings and that which we take the least care of all to acquire.",
+    author: "Francois de La Rochefoucauld",
+  },
+  {
+    quote:
+      "Friendship is born when one person says to another, 'What! You too? I thought I was the only one.'",
+    author: "C.S. Lewis",
+  },
+  {
+    quote: "Friendship is a love that never dies.",
+    author: "M. K. Soni",
+  },
+  {
+    quote:
+      "A real friend is one who walks in when the rest of the world walks out.",
+    author: "Walter Winchell",
+  },
+  {
+    quote:
+      "A friend is someone who understands your past, believes in your future, and accepts you just the way you are.",
+    author: "Unknown",
+  },
+  {
+    quote: "Friendship is like a rainbow between two hearts.",
+    author: "Unknown",
+  },
+  {
+    quote: "A friend is someone who gives you total freedom to be yourself.",
+    author: "Jim Morrison",
+  },
+  {
+    quote: "A friend is one who knows you and loves you just the same.",
+    author: "Elbert Hubbard",
+  },
+  {
+    quote:
+      "Friendship is the golden thread that ties the heart of all the world.",
+    author: "John Evelyn",
+  },
+  {
+    quote: "A friend is what the heart needs all the time.",
+    author: "Henry Van Dyke",
+  },
+  {
+    quote: "Friendship is a sheltering tree.",
+    author: "Samuel Taylor Coleridge",
+  },
+  {
+    quote: "A friend is a second self.",
+    author: "Aristotle",
+  },
+  {
+    quote:
+      "Friendship is the only cement that will ever hold the world together.",
+    author: "Woodrow Wilson",
+  },
+  {
+    quote:
+      "A true friend is somebody who can make you smile even when you're not in the mood.",
+    author: "Gina Barreca",
+  },
+  {
+    quote: "Friendship is the only flower that blooms in all seasons.",
+    author: "Unknown",
+  },
+  {
+    quote: "A true friend is one of the most precious assets in life.",
+    author: "Pooja Bhatt",
+  },
+  {
+    quote: "Friendship is the key to everything.",
+    author: "Aristotle",
+  },
+  {
+    quote:
+      "A true friend is the greatest of all blessings and that which we take the least care of all to acquire.",
+    author: "Francois de La Rochefoucauld",
+  },
+  {
+    quote:
+      "Friendship is born when one person says to another, 'What! You too? I thought I was the only one.'",
+    author: "C.S. Lewis",
+  },
+  {
+    quote: "Friendship is a love that never dies.",
+    author: "M. K. Soni",
+  },
+  {
+    quote:
+      "A real friend is one who walks in when the rest of the world walks out.",
+    author: "Walter Winchell",
+  },
+  {
+    quote:
+      "A friend is someone who understands your past, believes in your future, and accepts you just the way you are.",
+    author: "Unknown",
+  },
+  {
+    quote: "Friendship is like a rainbow between two hearts.",
+    author: "Unknown",
+  },
+  {
+    quote: "A friend is someone who gives you total freedom to be yourself.",
+    author: "Jim Morrison",
+  },
+  {
+    quote: "A friend is one who knows you and loves you just the same.",
+    author: "Elbert Hubbard",
+  },
+  {
+    quote:
+      "Friendship is the golden thread that ties the heart of all the world.",
+    author: "John Evelyn",
+  },
+  {
+    quote: "A friend is what the heart needs all the time.",
+    author: "Henry Van Dyke",
+  },
+  {
+    quote: "Friendship is a sheltering tree.",
+    author: "Samuel Taylor Coleridge",
+  },
+  {
+    quote: "A friend is a second self.",
+    author: "Aristotle",
+  },
+  {
+    quote:
+      "Friendship is the only cement that will ever hold the world together.",
+    author: "Woodrow Wilson",
+  },
+  {
+    quote:
+      "A true friend is somebody who can make you smile even when you're not in the mood.",
+    author: "Gina Barreca",
+  },
+  {
+    quote: "Friendship is the only flower that blooms in all seasons.",
+    author: "Unknown",
+  },
+  {
+    quote: "A true friend is one of the most precious assets in life.",
+    author: "Pooja Bhatt",
+  },
+  {
+    quote: "Friendship is the key to everything.",
+    author: "Aristotle",
+  },
+  {
+    quote:
+      "A true friend is the greatest of all blessings and that which we take the least care of all to acquire.",
+    author: "Francois de La Rochefoucauld",
+  },
+  {
+    quote:
+      "Friendship is born when one person says to another, 'What! You too? I thought I was the only one.'",
+    author: "C.S. Lewis",
+  },
+  {
+    quote: "Friendship is a love that never dies.",
+    author: "M. K. Soni",
+  },
+  {
+    quote:
+      "A real friend is one who walks in when the rest of the world walks out.",
+    author: "Walter Winchell",
+  },
+  {
+    quote:
+      "A friend is someone who understands your past, believes in your future, and accepts you just the way you are.",
+    author: "Unknown",
+  },
+  {
+    quote: "Friendship is like a rainbow between two hearts.",
+    author: "Unknown",
+  },
+  {
+    quote: "A friend is someone who gives you total freedom to be yourself.",
+    author: "Jim Morrison",
+  },
+  {
+    quote: "A friend is one who knows you and loves you just the same.",
+    author: "Elbert Hubbard",
+  },
+  {
+    quote:
+      "Friendship is the golden thread that ties the heart of all the world.",
+    author: "John Evelyn",
+  },
+  {
+    quote: "A friend is what the heart needs all the time.",
+    author: "Henry Van Dyke",
+  },
+  {
+    quote: "Friendship is a sheltering tree.",
+    author: "Samuel Taylor Coleridge",
+  },
+  {
+    quote: "A friend is a second self.",
+    author: "Aristotle",
+  },
+  {
+    quote:
+      "Friendship is the only cement that will ever hold the world together.",
+    author: "Woodrow Wilson",
+  },
+  {
+    quote:
+      "A true friend is somebody who can make you smile even when you're not in the mood.",
+    author: "Gina Barreca",
+  },
+  {
+    quote: "Friendship is the only flower that blooms in all seasons.",
+    author: "Unknown",
+  },
+  {
+    quote: "A true friend is one of the most precious assets in life.",
+    author: "Pooja Bhatt",
+  },
+  {
+    quote: "Friendship is the key to everything.",
+    author: "Aristotle",
+  },
+  {
+    quote:
+      "A true friend is the greatest of all blessings and that which we take the least care of all to acquire.",
+    author: "Francois de La Rochefoucauld",
+  },
+  {
+    quote:
+      "Friendship is born when one person says to another, 'What! You too? I thought I was the only one.'",
+    author: "C.S. Lewis",
+  },
+  {
+    quote: "Friendship is a love that never dies.",
+    author: "M. K. Soni",
+  },
+  {
+    quote:
+      "A real friend is one who walks in when the rest of the world walks out.",
+    author: "Walter Winchell",
+  },
+  {
+    quote:
+      "A friend is someone who understands your past, believes in your future, and accepts you just the way you are.",
+    author: "Unknown",
+  },
+  {
+    quote: "Friendship is like a rainbow between two hearts.",
+    author: "Unknown",
+  },
+  {
+    quote: "A friend is someone who gives you total freedom to be yourself.",
+    author: "Jim Morrison",
+  },
+  {
+    quote: "A friend is one who knows you and loves you just the same.",
+    author: "Elbert Hubbard",
+  },
+  {
+    quote:
+      "Friendship is the golden thread that ties the heart of all the world.",
+    author: "John Evelyn",
+  },
+  {
+    quote: "A friend is what the heart needs all the time.",
+    author: "Henry Van Dyke",
+  },
+  {
+    quote: "Friendship is a sheltering tree.",
+    author: "Samuel Taylor Coleridge",
+  },
+  {
+    quote: "A friend is a second self.",
+    author: "Aristotle",
+  },
+  {
+    quote:
+      "Friendship is the only cement that will ever hold the world together.",
+    author: "Woodrow Wilson",
+  },
+  {
+    quote:
+      "A true friend is somebody who can make you smile even when you're not in the mood.",
+    author: "Gina Barreca",
+  },
+  {
+    quote: "Friendship is the only flower that blooms in all seasons.",
+    author: "Unknown",
+  },
+  {
+    quote: "A true friend is one of the most precious assets in life.",
+    author: "Pooja Bhatt",
+  },
+  {
+    quote: "Friendship is the key to everything.",
+    author: "Aristotle",
+  },
+  {
+    quote:
+      "A true friend is the greatest of all blessings and that which we take the least care of all to acquire.",
+    author: "Francois de La Rochefoucauld",
+  },
+  {
+    quote:
+      "Friendship is born when one person says to another, 'What! You too? I thought I was the only one.'",
+    author: "C.S. Lewis",
+  },
+  {
+    quote: "Friendship is a love that never dies.",
+    author: "M. K. Soni",
+  },
+  {
+    quote:
+      "A real friend is one who walks in when the rest of the world walks out.",
+    author: "Walter Winchell",
+  },
+  {
+    quote:
+      "A friend is someone who understands your past, believes in your future, and accepts you just the way you are.",
+    author: "Unknown",
+  },
+  {
+    quote: "Friendship is like a rainbow between two hearts.",
+    author: "Unknown",
+  },
+  {
+    quote: "A friend is someone who gives you total freedom to be yourself.",
+    author: "Jim Morrison",
+  },
+  {
+    quote: "A friend is one who knows you and loves you just the same.",
+    author: "Elbert Hubbard",
+  },
+  {
+    quote:
+      "Friendship is the golden thread that ties the heart of all the world.",
+    author: "John Evelyn",
+  },
 ];
 export const colors = [
   `bg-blue-400`,
